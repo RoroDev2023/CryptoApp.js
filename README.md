@@ -1,5 +1,17 @@
 # CryptoApp.js
 
+## HomePage
+
+![screencapture-localhost-3001-2023-08-08-23_14_02](https://github.com/RoroDev2023/CarRental.js/assets/135022367/af492e61-2b81-4687-90fd-c89029cb0906)
+
+
+## Contact Page
+
+![screencapture-localhost-3001-contact-2023-08-08-23_14_43](https://github.com/RoroDev2023/CarRental.js/assets/135022367/0f51a316-df1e-4123-a503-7297670563e5)
+
+
+### A complex crypto watchlist website created in React and styles in Tailwind CSS. API for information regarding crypto coins is fetched from CoinGecko, a free open-source API generator. The ChatGPT is yet to be integrated but I will add the feature pretty soon
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
